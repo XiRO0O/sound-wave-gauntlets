@@ -1,0 +1,2 @@
+# sound-wave-gauntlets
+A project that I came up with as a kid. Gloves that can destroy an object at the molecular level by the force of sound (or actually by the power and intensity of sound waves). The initial inspiration were videos in which people broke wine glasses with their "naked" voices. Of course, at this point it will not be feasible, unless I have all the energy of the sun at my disposal (XD), but I would still like to be able to achieve at least the power that would break glass bottles itself.
